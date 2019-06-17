@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-emu/module-ex-blake-colleen/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-emu/module-ex-blake-colleen#readme"
+  "homepage": "https://github.com/thinkful-ei-emu/module-ex-blake-colleen#readme",
+  "devDependencies": {
+    "jquery": "^3.4.1"
+  }
 }
